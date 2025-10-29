@@ -7,14 +7,14 @@
           <li><a href="https://github.com/EvilGreven">github</a></li>
           <li><a href="http://evilgreven.brinkster.net/okquakes/index.html" class="current">OKQuakes</a></li>
           <li>Phone: 405-657-4753</li>
-          <li>E-mail: evil_greven@yahoo.com</td>
+          <li>E-mail: evil_greven@yahoo.com</li>
         </ul>
       </nav>
     </header>
       <article>
         <h1>Personal Data</h1>
         <ol>
-          <li>OKQuakes does not collect data from your device</li>
+          <li>OKQuakes does not collect data from your device beyond that which Google Play APIs use</li>
             <ul>
               <li>OKQuakes may access some device data but will not transmit any of this information beyond your device</li>
             </ul>

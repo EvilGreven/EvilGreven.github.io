@@ -29,4 +29,12 @@
             </ul>
         </ol>
       </article>
+        <aside>
+        <figure>
+          <img src="http://evilgreven.brinkster.net/images/okquakes_big.gif" alt="OKQuakes" />
+          <figcaption>
+            <a href="https://play.google.com/store/apps/details?id=com.evilgreven.okquakes">OKQuakes</a> on Google Play.
+          </figcaption>
+        </figure>
+    </aside>
   </main>

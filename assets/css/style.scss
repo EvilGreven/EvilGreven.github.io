@@ -1,0 +1,68 @@
+---
+---
+
+@import "{{ site.theme }}";
+header, section, footer, aside, nav, article, figure, figcaption {
+  display: block;
+}
+body {
+  color: #10462D;
+  background-color: #D8F6E9;
+  font-family: Georgia, Times, serif;
+  line-height: 1.4em;
+  margin: 0px;
+}
+nav, footer {
+  position: fixed;
+  width: 100%;
+  clear: both;
+  background-color: #30684F;
+  height: 30px;
+  padding: 0px 0px 0px 30px;
+}
+nav {
+  border-bottom: 1px solid #10462D;
+}
+nav ul {
+  margin: 0px;
+}
+nav li {
+  display: inline;
+  margin-right: 40px;
+}
+nav li a:hover, nav li a.current {
+  color: #aa0000;
+}
+article {
+  clear: both;
+  overflow: auto;
+  width: 100%;
+  padding: 0px 0px 0px 5px;
+  border-right: 1px solid #10462D;
+}
+section {
+  padding: 30px 0px 30px 0px;
+  float: left;
+  width: 75%;
+}
+table {
+  width: 100%;
+}
+aside {
+  position: fixed;
+  width: 25%;
+  top: 40px;
+  right: 10px;
+  float: right;
+}
+footer {
+  bottom: 0;
+  font-size: 80%;
+  border-top: 1px solid #10462D;
+}
+i {
+  font-size: 90%;
+}
+a {
+  color: #34DA86;
+}

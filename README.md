@@ -1,5 +1,4 @@
   <main>
-    <header>
       <nav>
         <ul>
           <li>Brett A. Jones</li>
@@ -10,7 +9,6 @@
           <li>E-mail: evil_greven@yahoo.com</li>
         </ul>
       </nav>
-    </header>
       <article>
         <h1>Personal Data</h1>
         <ol>

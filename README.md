@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -16,7 +15,7 @@
           <li>Brett A. Jones</li>
           <li><a href="http://evilgreven.net/index.html">about</a></li>
           <li><a href="https://github.com/EvilGreven">github</a></li>
-          <li><a href=""class="current">OKQuakes</a></li>
+          <li><a href="http://evilgreven.brinkster.net/okquakes/index.html"class="current">OKQuakes</a></li>
         </ul>
       </nav>
     </header>

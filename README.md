@@ -1,13 +1,3 @@
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <title>OKQuakes Privacy Policy</title>
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link href="http://evilgreven.net/styles.css" type="text/css" rel="stylesheet" />
-  </head>
-  <body>
   <main>
     <header>
       <nav>
@@ -15,11 +5,12 @@
           <li>Brett A. Jones</li>
           <li><a href="http://evilgreven.net/index.html">about</a></li>
           <li><a href="https://github.com/EvilGreven">github</a></li>
-          <li><a href="http://evilgreven.brinkster.net/okquakes/index.html"class="current">OKQuakes</a></li>
+          <li><a href="http://evilgreven.brinkster.net/okquakes/index.html" class="current">OKQuakes</a></li>
+          <li>Phone: 405-657-4753</li>
+          <li>E-mail: evil_greven@yahoo.com</td>
         </ul>
       </nav>
     </header>
-    <section>
       <article>
         <h1>Personal Data</h1>
         <ol>
@@ -38,25 +29,4 @@
             </ul>
         </ol>
       </article>
-    </section>
-    <aside>
-        <figure>
-          <img src="http://evilgreven.net/images/okquakes_big.gif" alt="OKQuakes" />
-          <figcaption>
-            <a href="https://play.google.com/store/apps/details?id=com.evilgreven.okquakes">OKQuakes</a> on Google Play.
-          </figcaption>
-        </figure>
-    </aside>
-    <footer>
-      <table>
-        <tr>
-          <td>Phone:</td>
-          <td>405-657-4753</td>
-          <td>E-mail:</td>
-          <td>evil_greven@yahoo.com</td>
-        </tr>
-      </table>
-    </footer>
   </main>
-  </body>
-</html>

@@ -8,6 +8,13 @@ summary: OKQuakes Homepage
   <main>
     <section>
       <article>
+        <h1>About OKQuakes</h1>
+        <p>OKQuakes is a free and ad-free Android app.  I created it as a public service, as the data source is not my own, but pulls data from the United States Geological Service</p>
+        <p>The earthquake list does not necessarily show every earthquake, nor is it updated all of the time.  Automated earthquake logging is limited, and many smaller earthquakes must be manually added.</p>
+        <p>Consequently, only bigger quakes will show up outside office hours.  Smaller quakes may be manually added later.</p>
+        <p><a href="privacy.html">Privacy Policy</a></p>
+      </article>
+      <article>
         <h1>Getting Started with OKQuakes</h1>
         <ol>
           <li>Launch OKQuakes</li>
@@ -51,13 +58,6 @@ summary: OKQuakes Homepage
               <li>To close this dialog and return to the earthquake list, select "Back" from the submenu or press the device's <em>back button</em>.</li>
             </ul>
         </ol>
-      </article>
-      <article>
-        <h1>About OKQuakes</h1>
-        <p>OKQuakes is a free and ad-free Android app.  I created it as a public service, as the data source is not my own, but pulls data from the United States Geological Service</p>
-        <p>The earthquake list does not necessarily show every earthquake, nor is it updated all of the time.  Automated earthquake logging is limited, and many smaller earthquakes must be manually added.</p>
-        <p>Consequently, only bigger quakes will show up outside office hours.  Smaller quakes may be manually added later.</p>
-        <p><a href="privacy.html">Privacy Policy</a></p>
       </article>
     </section>
     <aside>

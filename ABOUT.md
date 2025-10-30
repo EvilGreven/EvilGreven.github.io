@@ -2,21 +2,10 @@
 keywords: About
 tags: []
 permalink: /about.html
-title: OKQuakes
-headline: About Me
+title: About Me
 summary: Information about the author
 ---
   <main>
-    <header>
-      <nav class="navbar navbar-inverse navbar-static-top">
-        <ul>
-          <li>Brett A. Jones</li>
-          <li><a class="current">about</a></li>
-          <li><a href="https://github.com/EvilGreven">github</a></li>
-          <li><a href="index.html">OKQuakes</a></li>
-        </ul>
-      </nav>
-    </header>
     <section>
       <article>
         <h1>Skills</h1>
@@ -66,6 +55,14 @@ summary: Information about the author
         </figure>
     </aside>
     <footer>
+      <nav>
+        <ul>
+          <li>Brett A. Jones</li>
+          <li><a class="current">about</a></li>
+          <li><a href="https://github.com/EvilGreven">github</a></li>
+          <li><a href="index.html">OKQuakes</a></li>
+        </ul>
+      </nav>
       <table>
         <tr>
           <td>Phone:</td>

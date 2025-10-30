@@ -1,14 +1,14 @@
   <main>
-      <nav>
-        <ul>
+    <nav class="navbar navbar-inverse navbar-static-top">
+      <ul>
           <li>Brett A. Jones</li>
           <li><a href="http://evilgreven.net/index.html">about</a></li>
           <li><a href="https://github.com/EvilGreven">github</a></li>
           <li><a class="current">OKQuakes</a></li>
           <li>Phone: 405-657-4753</li>
           <li>E-mail: evil_greven@yahoo.com</li>
-        </ul>
-      </nav>
+      </ul>
+    </nav>
     <p></p>
     <article>
       <h1>Getting Started with OKQuakes</h1>
@@ -59,6 +59,6 @@
       <h1>About OKQuakes</h1>
       <p>OKQuakes is a free and ad-free Android app.  I created it as a public service, as the data source is not my own, but a list maintained by the OGS.</p>
       <p>The OGS earthquake list does not necessarily show every earthquake, nor is it updated all of the time.  Automated earthquake logging is limited, and many smaller earthquakes must be manually added.  Consequently, only bigger quakes will show up outside OGS office hours.
-      <p><a href="privacy.html">Privacy Policy</a>
+      <p><a href="privacy.html">Privacy Policy</a></p>
     </article>
   </main>

@@ -2,7 +2,7 @@
 keywords: 
 tags: []
 permalink: index.html
-title: 
+title: OKQuakes
 summary: 
 ---
   <main>

@@ -3,20 +3,9 @@ keywords:
 tags: []
 permalink: index.html
 title: OKQuakes
-summary: 
+summary: OKQuakes Homepage
 ---
   <main>
-    <header>
-      <nav class="navbar navbar-inverse navbar-static-top">
-        <ul>
-          <li>Brett A. Jones</li>
-          <li><a href="about.html">about</a></li>
-          <li><a href="https://github.com/EvilGreven">github</a></li>
-          <li><a class="current">OKQuakes</a></li>
-          <li><a href="privacy.html">Privacy Policy</a></li>
-        </ul>
-      </nav>
-    </header>
     <section>
       <article>
         <h1>Getting Started with OKQuakes</h1>
@@ -80,13 +69,16 @@ summary:
       </figure>
     </aside>
     <footer>
-      <table>
-        <tr>
-          <td>Phone:</td>
-          <td>405-657-4753</td>
-          <td>E-mail:</td>
-          <td>evil_greven@yahoo.com</td>
-        </tr>
-      </table>
+      <nav class="navbar navbar-inverse navbar-static-top">
+        <ul>
+          <li>Brett A. Jones</li>
+          <li><a href="about.html">about</a></li>
+          <li><a href="https://github.com/EvilGreven">github</a></li>
+          <li><a class="current">OKQuakes</a></li>
+          <li><a href="privacy.html">Privacy Policy</a></li>
+          <li>Phone: 405-657-4753</li>
+          <li>E-mail: evil_greven@yahoo.com</li>
+        </ul>
+      </nav>
     </footer>
   </main>

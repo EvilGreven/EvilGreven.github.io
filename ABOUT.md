@@ -1,8 +1,8 @@
 ---
-keywords: 
+keywords: About
 tags: []
-permalink: about.html
-title: OKQuakes - About Me
+permalink: /about.html
+title: About Me
 summary: Information about the author
 ---
   <main>

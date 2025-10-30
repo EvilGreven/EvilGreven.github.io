@@ -1,7 +1,7 @@
 ---
 keywords: 
 tags: []
-permalink: index.html
+permalink: about.html
 title: 
 summary: 
 ---

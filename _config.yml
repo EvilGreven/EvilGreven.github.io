@@ -2,7 +2,6 @@ title: OKQuakes
 description: OKQuakes Homepage
 lsi: false
 safe: true
-source: EvilGreven.github.io
 incremental: false
 highlighter: rouge
 gist:
@@ -10,4 +9,3 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-  

@@ -3,7 +3,7 @@ keywords: About
 tags: []
 permalink: /about.html
 title: OKQuakes
-description: About Me
+headline: About Me
 summary: Information about the author
 ---
   <main>

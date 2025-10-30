@@ -66,6 +66,6 @@ summary:
       <h1>About OKQuakes</h1>
       <p>OKQuakes is a free and ad-free Android app.  I created it as a public service, as the data source is not my own, but a list maintained by the OGS.</p>
       <p>The OGS earthquake list does not necessarily show every earthquake, nor is it updated all of the time.  Automated earthquake logging is limited, and many smaller earthquakes must be manually added.  Consequently, only bigger quakes will show up outside OGS office hours.
-      <p><a href="privacy.html">Privacy Policy</a></p>
+      <p><a href="PRIVACY.md">Privacy Policy</a></p>
     </article>
   </main>

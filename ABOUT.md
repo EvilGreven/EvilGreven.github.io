@@ -61,15 +61,8 @@ summary: Information about the author
           <li><a class="current">about</a></li>
           <li><a href="https://github.com/EvilGreven">github</a></li>
           <li><a href="index.html">OKQuakes</a></li>
+          <li>Phone: 405-657-4753</li>
+          <li>E-mail: evil_greven@yahoo.com</li>
         </ul>
       </nav>
-      <table>
-        <tr>
-          <td>Phone:</td>
-          <td>405-657-4753</td>
-          <td>E-mail:</td>
-          <td>evil_greven@yahoo.com</td>
-        </tr>
-      </table>
-    </footer>
   </main>

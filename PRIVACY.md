@@ -2,16 +2,16 @@
 keywords: Privacy
 tags: []
 permalink: privacy.html
-title: 
+title: OKQuakes - Privacy Policy
 summary: 
 ---
   <main>
     <nav class="navbar navbar-inverse navbar-static-top">
       <ul>
           <li>Brett A. Jones</li>
-          <li><a href="ABOUT.md">about</a></li>
+          <li><a href="about.html">about</a></li>
           <li><a href="https://github.com/EvilGreven">github</a></li>
-          <li><a a href="README.md">OKQuakes</a></li>
+          <li><a a href="index.html">OKQuakes</a></li>
           <li><a class="current">Privacy Policy</a></li>
           <li>Phone: 405-657-4753</li>
           <li>E-mail: evil_greven@yahoo.com</li>
